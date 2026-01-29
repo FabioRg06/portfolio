@@ -116,7 +116,7 @@ export function AboutSection() {
                 href="#contact"
                 className="inline-flex items-center gap-2 text-primary font-medium line-animation text-xs"
               >
-                Let's work together
+                Let&apos;s work together
                 <svg
                   className="w-3 h-3"
                   fill="none"

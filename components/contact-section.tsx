@@ -100,7 +100,7 @@ export function ContactSection() {
             Got a <span className="text-gradient">project</span>?
           </h2>
           <p className="text-muted-foreground mt-2 max-w-xl mx-auto text-xs md:text-sm">
-            Always open to new opportunities and collaborations. Let's talk about how I can help bring your next project to life.
+            Always open to new opportunities and collaborations. Let&apos;s talk about how I can help bring your next project to life.
           </p>
         </div>
 
